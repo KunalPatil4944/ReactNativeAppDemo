@@ -140,7 +140,7 @@ const App = () => {
 
  
 
-      <StatusBar style="auto" />
+      <StatusBar style="auto" /> 
 
  
 
